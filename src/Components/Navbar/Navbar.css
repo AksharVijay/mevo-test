@@ -1,0 +1,24 @@
+.bg-navcol{
+    background: #00afdd !important;
+}
+.logo{
+    width: 100px;
+}
+.nav-item-name{
+    transition: background-color 0.3s;
+    font-size: 1rem;
+    color: #fff !important;
+    display: block;
+    padding: 0 15px;
+    cursor: pointer;
+    list-style-type: none !important;
+}
+.nav-li {
+    transition: background-color .3s;
+    float: left;
+    padding: 0;
+    list-style-type: none !important;
+}
+right {
+    float : right !important;
+}
